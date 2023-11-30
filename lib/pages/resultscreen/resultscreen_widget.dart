@@ -188,7 +188,7 @@ class _ResultscreenWidgetState extends State<ResultscreenWidget> {
                             alignment: AlignmentDirectional(-1.00, 0.00),
                             child: Padding(
                               padding: EdgeInsetsDirectional.fromSTEB(
-                                  10.0, 0.0, 0.0, 0.0),
+                                  10.0, 0.0, 0.0, 50.0),
                               child: Text(
                                 'Disclaimer: Results may be inaccurate',
                                 style: FlutterFlowTheme.of(context)
